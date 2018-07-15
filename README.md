@@ -1,2 +1,2 @@
-# site code of arpan.work
+# Code of arpan.work
 implemented from NeXT jekyll theme
