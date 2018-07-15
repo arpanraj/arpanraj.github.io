@@ -43,10 +43,6 @@ page:
   totally: 모두
   tags: 태그
 
-footer:
-  powered: "Powered by %s"
-  theme: Theme
-
 counter:
   tag_cloud:
     zero: 태그 없음

@@ -48,9 +48,6 @@ page:
   totally: Всего
   tags: тэги
 
-footer:
-  powered: "Powered by %s"
-  theme: Theme
 
 counter:
   tag_cloud:

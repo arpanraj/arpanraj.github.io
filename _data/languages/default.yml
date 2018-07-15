@@ -16,6 +16,7 @@ menu:
   categories: Categories
   tags: Tags
   about: About
+  projects: Projects
   search: Search
   schedule: Schedule
   sitemap: Sitemap
@@ -52,8 +53,8 @@ page:
   tags: tags
 
 footer:
-  powered: "Powered by %s"
-  theme: Theme
+  powered: ""
+  theme: 
 
 counter:
   tag_cloud:
