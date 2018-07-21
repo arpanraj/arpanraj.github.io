@@ -3,7 +3,7 @@ title: Stealth hunt
 date: 2018-07-15 0:0:0
 categories:
 - Projects
-tags:
+tags: [Unity, Photon networking, C#, Windows, MacOS, Game]
 ---
 
 Stealthhunt was a multiplayer game with 3 different levels.Levels: mirror maze,invisible maze and mirror and cctv maze

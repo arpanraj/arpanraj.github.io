@@ -122,7 +122,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
-  projects: /projects/
+  projects: /category/#/Projects
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 

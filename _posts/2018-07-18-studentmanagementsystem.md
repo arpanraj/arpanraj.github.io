@@ -3,7 +3,7 @@ title: Student Management System
 date: 2018-07-15 0:0:0
 categories:
 - Projects
-tags:
+tags: [Java, XML,Softwere]
 ---
 
 Student managment system was a client application.It was designed to manage student results.

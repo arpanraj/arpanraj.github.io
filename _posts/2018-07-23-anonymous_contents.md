@@ -3,7 +3,7 @@ title: Anonymous Contents
 date: 2018-07-15 0:0:0
 categories:
 - Projects
-tags:
+tags: [HTML, CSS, Javascript, PHP, Jquery, Bootstrap,Website]
 ---
 
 Anonymuous contents is a website to post contents anonymously.It was designed to give nostalogic feeling like hacker.

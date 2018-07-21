@@ -3,7 +3,7 @@ title: World speed shopping
 date: 2018-07-15 0:0:0
 categories:
 - Projects
-tags:
+tags: [Laravel, Jquery, Bootstrap, PHP, HTML, CSS, Javascript, Website, E-commerce]
 ---
 
 Freelancing work with collegue on e-commerce website with adminside facilities in laravel framework for client

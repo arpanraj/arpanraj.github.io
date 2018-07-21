@@ -3,7 +3,7 @@ title: Create Toilet
 date: 2018-07-15 0:0:0
 categories:
 - Projects
-tags:
+tags: [Unity, C#, Windows, Game]
 ---
 
 An interactive demo of how toilets are made using pick and place gameplay.It was a freelancing work.Pick and place game.
