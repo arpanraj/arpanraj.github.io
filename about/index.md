@@ -4,7 +4,7 @@ type: about
 ---
 
 
-##### Hard working programmer and designer with a flair of creating elegant solutions in the least amount of time.
+##### Hard working creator with a flair of creating elegant solutions in the least amount of time.
 
 | Father’s name: | Vijaybhai Rajpurohit |
 | Birth date: | 03 August 1995 |

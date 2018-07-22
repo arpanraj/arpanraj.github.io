@@ -12,3 +12,7 @@ Quicksocial was a simple chatting website with no css
 
 | Coding language: | PHP,HTML,JS |
 | Time: | 1 week |
+
+![quicksocialscreenshot](/assets/images/quicksocialscreenshot.jpg)
+![quicksocialscreenshot2](/assets/images/quicksocialscreenshot2.jpg)
+![quicksocialscreenshot3](/assets/images/quicksocialscreenshot3.jpg)

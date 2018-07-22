@@ -16,3 +16,9 @@ Stealthhunt was a multiplayer game with 3 different levels.Levels: mirror maze,i
 | Coding language: | C# |
 | Platform: | Windows and mac os |
 | Time: | 1 and a half month |
+
+![stealthhunticon](/assets/images/stealthhunticon.jpg)
+![stealthhuntscreenshot1](/assets/images/stealthhuntscreenshot1.png)
+![stealthhuntscreenshot2](/assets/images/stealthhuntscreenshot2.png)
+![stealthhuntscreenshot3](/assets/images/stealthhuntscreenshot3.png)
+![stealthhuntscreenshot4](/assets/images/stealthhuntscreenshot4.png)
