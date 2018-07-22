@@ -17,7 +17,7 @@ Stealthhunt was a multiplayer game with 3 different levels.Levels: mirror maze,i
 | Platform: | Windows and mac os |
 | Time: | 1 and a half month |
 
-![stealthhunticon](/assets/images/stealthhunticon.jpg)
+![stealthhunticon](/assets/images/Stealthhunticon.jpg)
 ![stealthhuntscreenshot1](/assets/images/stealthhuntscreenshot1.png)
 ![stealthhuntscreenshot2](/assets/images/stealthhuntscreenshot2.png)
 ![stealthhuntscreenshot3](/assets/images/stealthhuntscreenshot3.png)
