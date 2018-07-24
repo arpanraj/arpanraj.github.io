@@ -12,3 +12,4 @@ type: about
 | Languages known: | Gujarati, Hindi, English |
 | HSC | 72% |
 | BE | 7.12 Computer Engineering |
+| Email | arpanrajpurohit@gmail.com |
