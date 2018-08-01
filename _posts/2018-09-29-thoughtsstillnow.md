@@ -1,5 +1,5 @@
 ---
-title: Poems
+title: Thoughts
 date: 2018-08-01 0:0:0
 categories:
 - Thoughts
