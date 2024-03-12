@@ -68,7 +68,7 @@ the associated coursework.
 ---
 
 ### Education:
-**Master of Science, Computer Science (March 2022–December 2023)** Portland State University, Portland, USA. GPA : 3.82
+**Master of Science, Computer Science (March 2022 – December 2023)** Portland State University, Portland, USA. GPA : 3.82
 
 **Bachlor of Engineering, Computer Engineering (July 2013 – June 2017)**  
 Gujarat Technological University, Gujarat, India.
@@ -77,7 +77,7 @@ Gujarat Technological University, Gujarat, India.
 
 ### Experience:
 
-#### Student Mentor, Portland State University (July 2022 December 2023)
+#### Student Mentor, Portland State University (July 2022 - December 2023)
 - Provided support and guidance to students over six terms, addressing various issues and queries
 related to adjusting to life and immigration in the USA, ultimately earning recognition as a finalist for the Portland State University Student Employee Rising Star Award.
 
