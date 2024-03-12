@@ -78,8 +78,7 @@ Gujarat Technological University, Gujarat, India.
 ### Experience:
 
 #### Student Mentor, Portland State University (July 2022 - December 2023)
-- Provided support and guidance to students over six terms, addressing various issues and queries
-related to adjusting to life and immigration in the USA, ultimately earning recognition as a finalist for the Portland State University Student Employee Rising Star Award.
+- Provided support and guidance to students over six terms, addressing various issues and queries related to adjusting to life and immigration in the USA, ultimately earning recognition as a finalist for the Portland State University Student Employee Rising Star Award.
 
 #### Software Developer, Viitorcloud Technologies Pvt. Ltd, India (July 2017 – January 2022)
 - Developed an interactive sanitization demonstration with intuitive controls in Unity - game engine
@@ -93,10 +92,8 @@ and C#
 - Developed Python API for 10 types of sensor nodes such as smart water meters and smart waste management systems for a smart building management solution.
     - Smart building automation solution used across 100+ locations.
     - Ensured real-time data collection and swift response to anomalies at scale.
-- Engineered computer vision models to count people using TensorFlow, OpenCV and Keras in Python
-for security and surveillance prototype.
-- Developed a Python algorithm to detect the most dominant color in images and seamlessly
-communicated the result to Arduino for dynamic LED light display.
+- Engineered computer vision models to count people using TensorFlow, OpenCV and Keras in Python for security and surveillance prototype.
+- Developed a Python algorithm to detect the most dominant color in frame of continuous video and seamlessly communicated the result to Arduino for dynamic LED light display.
 
 ---
 
