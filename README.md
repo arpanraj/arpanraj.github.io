@@ -15,7 +15,7 @@ Motivated and experienced Software Developer (4+ years) with a Master of Science
 ### Projects:
 
 <p align="center">
-  <img src="assets/images/epoch_architecture.png" alt="architecture of epoch wise performance"  width="400" height="400">
+  <img src="assets/images/epoch_architecture.png" alt="architecture of epoch wise performance">
 </p>
 
 #### [Enhanced Epoch Performance With Depth Layer](https://github.com/arpanraj/Enhanced-Epoch-Performance-With-Depth-Layers)
@@ -24,7 +24,7 @@ Motivated and experienced Software Developer (4+ years) with a Master of Science
 regression problem in Python, resulting in an overall improvement of 100 times in accuracy for the test set per epoch.
 
 <p align="center">
-  <img src="assets/images/coex_evaluation.jpg" alt="coexistence evaluation graph" width="400" height="400">
+  <img src="assets/images/coex_evaluation.jpg" alt="coexistence evaluation graph">
 </p>
 
 #### [Coexistence Guide GPT](https://github.com/arpanraj/Coexistance-Guide-GPT)
@@ -34,7 +34,7 @@ the Coexistence Philosophy, resulting in 50+ conversations in 9 days.
 criteria, including relevance and critical thinking, to assess response quality.
 
 <p align="center">
-  <img src="assets/images/pos_sampleimages.png" alt="sample images of positions" width="400" height="400">
+  <img src="assets/images/pos_sampleimages.png" alt="sample images of positions">
 </p>
 
 #### [3D Object Position Identification From Image](https://github.com/arpanraj/Position-Identification-from-photo)
@@ -50,7 +50,7 @@ generation of high-quality, clear, and recognizable images with minimal noise.
 - Achieved grade A for the associated coursework.
 
 <p align="center">
-  <img src="assets/images/sent_logistic_regression.png" alt="sentiment detection confusion matrix" width="400" height="400">
+  <img src="assets/images/sent_logistic_regression.png" alt="sentiment detection confusion matrix">
 </p>
 
 #### [Sentiment Detection: Natural Language Processing](https://github.com/arpanraj/Sarcasm-Detection-Natural-Language-Processing)
@@ -59,7 +59,7 @@ generation of high-quality, clear, and recognizable images with minimal noise.
 the associated coursework.
 
 <p align="center">
-  <img src="assets/images/sect_game.png" alt="sentiment detection confusion matrix" width="400" height="400">
+  <img src="assets/images/sect_game.png" alt="sentiment detection confusion matrix" width="300" height="300">
 </p>
 
 #### [Sect - Puzzle Game](https://github.com/arpanraj/sect-Unity-game)
