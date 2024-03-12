@@ -122,4 +122,4 @@ platform for accessing healthcare services.
 cycles, enhancing farm and dairy management capabilities for efficient operations.
 
 ---
-Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences. Looking forward to connecting!
+Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences. Looking forward to connecting! [LinkedIn](https://www.linkedin.com/in/arpanrajpurohit/)
