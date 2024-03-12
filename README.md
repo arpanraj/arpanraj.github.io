@@ -42,7 +42,7 @@ criteria, including relevance and critical thinking, to assess response quality.
 three-dimensional objects, utilizing C# in conjunction with the Unity - game engine.
 - Developed and assessed a Convolutional Neural Network model using TensorFlow in Python, achieving 95% accuracy on image classification tasks with 64x64 pixel input dimensions.
 
-#### Synthetic Image Generator: Generative Adversarial Network 
+#### [Synthetic Image Generator: Generative Adversarial Network](https://github.com/arpanraj/GAN---Computer-Vision-and-Deep-Learning-) 
 - Developed and trained a generative subnetwork model in Python using TensorFlow to generate synthetic images, tailored for the FashionMNIST dataset containing 60,000 images with dimensions of
 28x28 pixels.
 - Enhanced the model's capabilities through the implementation of a CNN-based GAN, resulting in the
@@ -53,7 +53,7 @@ generation of high-quality, clear, and recognizable images with minimal noise.
   <img src="assets/images/sent_logistic_regression.png" alt="sentiment detection confusion matrix">
 </p>
 
-#### [Sentiment Detection: Natural Language Processing](https://github.com/arpanraj/GAN---Computer-Vision-and-Deep-Learning-)
+#### [Sentiment Detection: Natural Language Processing](https://github.com/arpanraj/Sarcasm-Detection-Natural-Language-Processing)
 - Implemented machine learning models in Python (Naive Bayes and Logistic Regression) for sarcasm detection in 26,709 article headlines.
 - Achieved 80% accuracy with Logistic Regression, a 9% improvement over Naive Bayes and grade A for
 the associated coursework.
