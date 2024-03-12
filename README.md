@@ -18,7 +18,8 @@ Motivated and experienced Software Developer (4+ years) with a Master of Science
   <img src="assets/images/epoch_architecture.png" alt="architecture of epoch wise performance">
 </p>
 
-#### Enhanced Epoch Performance With Depth Layer
+#### [Enhanced Epoch Performance With Depth Layer] (https://github.com/arpanraj/Enhanced-Epoch-Performance-With-Depth-Layers)
+
 - Developed a depth layer between hidden layers within a neural network architecture for a linear
 regression problem in Python, resulting in an overall improvement of 100 times in accuracy for the test set per epoch.
 
