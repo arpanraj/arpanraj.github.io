@@ -12,7 +12,8 @@ Motivated and experienced Software Developer with a Master of Science in Compute
 ---
 
 ### Education:
-**Master of Science, Computer Science** (March 2022–December 2023)
+**Master of Science, Computer Science** 
+March 2022–December 2023
 Portland State University, Portland, USA. GPA:3.82
 
 **Bachlor of Engineering, Computer Engineering**  
