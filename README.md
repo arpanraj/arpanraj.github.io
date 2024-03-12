@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Summary:
-Motivated and experienced Software Developer with a Master of Science in Computer Science from Portland State University. Proficient in a wide range of programming languages including Python, C#, and Java, with expertise in developing innovative solutions using machine learning, computer vision, and game development technologies. Strong background in project development, mentorship, and collaboration.
+Motivated and experienced Software Developer (4+ years) with a Master of Science in Computer Science from Portland State University. Proficient in a wide range of programming languages including Python, C#, and Java, with expertise in developing innovative solutions using machine learning, computer vision, and game development technologies. Strong background in project development, mentorship, and collaboration.
 
 ---
 
@@ -76,11 +76,11 @@ Gujarat Technological University, Gujarat, India.
 
 ### Experience:
 
-#### Student Mentor, Portland State University 
+#### Student Mentor, Portland State University (July 2022 December 2023)
 - Provided support and guidance to students over six terms, addressing various issues and queries
 related to adjusting to life and immigration in the USA, ultimately earning recognition as a finalist for the Portland State University Student Employee Rising Star Award.
 
-#### Software Developer, Viitorcloud Technologies Pvt. Ltd, India
+#### Software Developer, Viitorcloud Technologies Pvt. Ltd, India (July 2017 – January 2022)
 - Developed an interactive sanitization demonstration with intuitive controls in Unity - game engine
 and C#
     - Presented in front of the prime minister of India at Indian Expo.
