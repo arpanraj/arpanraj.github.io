@@ -63,6 +63,7 @@ the associated coursework.
 
 #### Sect - Puzzle Game
 - Developed a 3d puzzle game where intersection gives opposite color to figure out destination shape in C# and Unity - Game engine, resulting in 100 plus downloads.
+
 ---
 
 ### Education:
