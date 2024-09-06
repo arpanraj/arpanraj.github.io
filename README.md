@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Summary:
-Motivated and experienced Software Developer (4+ years) with a Master of Science in Computer Science from Portland State University. Proficient in a wide range of programming languages including Python, C#, and Java, with expertise in developing innovative solutions using machine learning, computer vision, and game development technologies. Strong background in project development, mentorship, and collaboration.
+Motivated Software Developer with a Master of Science in Computer Science from Portland State University. Proficient in a wide range of programming languages including Python, C#, and Java, with expertise in developing innovative solutions using machine learning, computer vision, and game development technologies. Strong background in project development, mentorship, and collaboration.
 
 ---
 
@@ -75,28 +75,6 @@ Gujarat Technological University, Gujarat, India.
 
 ---
 
-### Experience:
-
-#### Student Mentor, Portland State University (July 2022 - December 2023)
-- Provided support and guidance to students over six terms, addressing various issues and queries related to adjusting to life and immigration in the USA, ultimately earning recognition as a finalist for the Portland State University Student Employee Rising Star Award.
-
-#### Software Developer, Viitorcloud Technologies Pvt. Ltd, India (July 2017 – January 2022)
-- Developed an interactive sanitization demonstration with intuitive controls in Unity - game engine
-and C#
-    - Presented in front of the prime minister of India at Indian Expo.
-    - Garnered substantial television coverage, amassing over 100,000 views.
-    - Played a pivotal role in securing endorsement for future virtual reality initiatives.
-- Crafted and implemented an AI model for a project management solution using TensorFlow, Flask, AWS, and Python's machine learning libraries.
-    - Wazir, a project management solution utilized by 5 companies and 1400+ developers and managers.
-    - Resulted in an 11% increase in productivity for over 150 scrum masters, showcasing the effectiveness of the AI solution.
-- Developed Python API for 10 types of sensor nodes such as smart water meters and smart waste management systems for a smart building management solution.
-    - Smart building automation solution used across 100+ locations.
-    - Ensured real-time data collection and swift response to anomalies at scale.
-- Engineered computer vision models to count people using TensorFlow, OpenCV and Keras in Python for security and surveillance prototype.
-- Developed a Python algorithm to detect the most dominant color in frame of continuous video and seamlessly communicated the result to Arduino for dynamic LED light display.
-
----
-
 ### Previous Projects:
 
 #### Abscond - 3rd Person Shooting Game 
@@ -119,4 +97,4 @@ platform for accessing healthcare services.
 cycles, enhancing farm and dairy management capabilities for efficient operations.
 
 ---
-Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences. Looking forward to connecting! [LinkedIn](https://www.linkedin.com/in/arpanrajpurohit/)
+Feel free to reach out to discuss collaboration opportunities or for further details on any projects or experiences. Looking forward to connecting!
